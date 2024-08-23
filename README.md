@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan-sagthiya&label=Profile%20views&color=0e75b6&style=flat" alt="milan-sagthiya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, nextJS, Javascript.**
+- 🌱 I’m currently learning **ReactJS, Next.JS, Javascript.**
 
 - 📫 How to reach me **milan.sagthiya361@gmail.com**
 
