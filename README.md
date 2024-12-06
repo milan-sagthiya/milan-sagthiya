@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ghoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghoul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/milan-sagthiya-832836263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-sagthiya-832836263" height="30" width="40" /></a>
-<a href="https://instagram.com/ghoulistoolazytodraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghoulistoolazytodraw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milan-sagthiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-sagthiya" height="30" width="40" /></a>
+<a href="https://instagram.com/livin_in_temporal_loop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="livin_in_temporal_loop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
